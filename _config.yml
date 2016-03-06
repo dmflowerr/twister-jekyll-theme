@@ -1,5 +1,5 @@
-name: Twister
-description: a powerful jekyll theme
+name: What Sold Me...
+description: Expensive items that are really worth the price.
 url: #place url
 gems: [jekyll-paginate]
 baseurl: /twisterwhatsoldme/
